@@ -1,0 +1,28 @@
+name: Leon Cave
+favicon: null
+layout_spectrum: 0.8199118222109973
+typography_spectrum: 0.1475387632381171
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1764472397044301
+  lightness: 0.08134717191569507
+  saturation: 0.45916319638490677
+  rhythmicContrast: 0.11123069655150175
+purpose: []
