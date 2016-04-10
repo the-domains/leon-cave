@@ -4,7 +4,7 @@
         <description><![CDATA[Leon Cave]]></description>
         <link>https://thegrid.ai/leon-cave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 11:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 11:39:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/leon-cave/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,12 +26,6 @@
             <link>https://thegrid.ai/leon-cave/3d5d7767-d440-49cd-bd03-86402597ca45/index.html</link>
             <guid isPermaLink="false">3d5d7767-d440-49cd-bd03-86402597ca45</guid>
             <pubDate>Sun, 10 Apr 2016 11:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://thegrid.ai/leon-cave/effd9948-92a6-4a26-a082-57f8e6d161d8/index.html</link>
-            <guid isPermaLink="false">effd9948-92a6-4a26-a082-57f8e6d161d8</guid>
-            <pubDate>Sun, 10 Apr 2016 11:25:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
