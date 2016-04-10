@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Leon Cave]]></title>
         <description><![CDATA[Leon Cave]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leon-cave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 09:29:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 11:21:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leon-cave/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><h2>Current projects and bands include:</h2><p>Leon Cave is a versatile and in-demand Multi - instrumentalist based in London. His instruments include drums, guitar and bass and he has toured extensively worldwide and recorded with a wide range of artists and producers. Leon is a highly experienced musician playing over a hundred shows each year that include large pop gigs, radio performances, corporate functions and open air festivals.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47139a3a-14c2-4c42-aa5e-1f464dc7ccf0.jpg"></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <description><![CDATA[<article><h1>About</h1><h2>Current projects and bands include:</h2><p>Leon Cave is a versatile and in-demand Multi - instrumentalist based in London. His instruments include drums, guitar and bass and he has toured extensively worldwide and recorded with a wide range of artists and producers. Leon is a highly experienced musician playing over a hundred shows each year that include large pop gigs, radio performances, corporate functions and open air festivals.</p></article>]]></description>
+            <link>https://thegrid.ai/leon-cave/about/index.html</link>
             <guid isPermaLink="false">96a6f808-b0f3-4643-93cd-e475e93b188d</guid>
-            <pubDate>Sun, 10 Apr 2016 09:29:09 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 11:20:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
